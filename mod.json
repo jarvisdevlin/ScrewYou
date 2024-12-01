@@ -1,0 +1,22 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "jarvisdevil.screwyou",
+	"name": "ScrewYou",
+	"version": "v1.0.0",
+	"developer": "jarvisdevil",
+	"description": "Geode Mod made to make you mad",
+	"settings": {
+		"enabled": {
+		    "type": "bool",
+		    "name": "Enabled",
+		    "description": "owie.",
+		    "default": true
+		}
+	}
+}
