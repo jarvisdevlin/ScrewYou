@@ -18,5 +18,10 @@
 		    "description": "owie.",
 		    "default": true
 		}
-	}
+	},
+	"tags": [
+		"joke",
+		"gameplay",
+		"offline"
+	]
 }
